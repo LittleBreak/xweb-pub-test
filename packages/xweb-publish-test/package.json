@@ -1,6 +1,6 @@
 {
   "name": "xweb-publish-test",
-  "version": "1.0.1",
+  "version": "1.0.2-prerelease.0",
   "description": "",
   "main": "index.js",
   "scripts": {
